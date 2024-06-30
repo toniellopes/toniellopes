@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @toniellopes
 - 👀 I’m interested in Technology
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me: toniellopes@hotmail.com
 
